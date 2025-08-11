@@ -1,5 +1,6 @@
 ## Hi there 👋
- 🔭 I’m currently searching for job.
+-My name is Bijaya Pun.I am a computer science student persuing career towars full stack developer.
+ -🔭 I’m currently working on myself.
 - 🌱 I’m currently learning front-end developer and moving my possible path to full stack developer.
 - ⚡ Fun fact: mmmm lazy person
 
