@@ -1,4 +1,7 @@
 ## Hi there 👋
+ 🔭 I’m currently searching for job.
+- 🌱 I’m currently learning front-end developer and moving my possible path to full stack developer.
+- ⚡ Fun fact: mmmm lazy person
 
 <!--
 **bjmagar418/bjmagar418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
